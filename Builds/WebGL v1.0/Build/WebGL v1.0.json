@@ -1,0 +1,16 @@
+{
+"companyName": "ADISKING1",
+"productName": "PersonalSpace",
+"productVersion": "1.0",
+"dataUrl": "WebGL v1.0.data.unityweb",
+"wasmCodeUrl": "WebGL v1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL v1.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#303030",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
